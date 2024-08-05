@@ -26,7 +26,7 @@ This is a simple React application that displays a directory of people fetched f
 - Node.js (version 12 or later)
 - npm or yarn (npm used here)
 
-### Installation
+### Installing and running
 
 1. Clone the repository:
 
@@ -50,12 +50,11 @@ Check for versions (node -v, npm -v)
    ```sh
    npm install
 
-### Open localhost after running the following command: 
-
+5. Running the development server:
    ```sh
-   npm run dev   
+   npm run dev
 
-### Project Structure
+### Project Structure:
 
 /src  <br/>
   DisplayParams.jsx - Component to display a paginated list of users. <br/>

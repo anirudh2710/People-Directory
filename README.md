@@ -41,10 +41,11 @@ This is a simple React application that displays a directory of people fetched f
 4. Download Node.js (if it isn't already installed):
 
    ```sh
-   Source link: https://nodejs.org/en
-   Check for versions (node -v, npm -v)
+   https://nodejs.org/en
 
-6. Install dependencies:
+Check for versions (node -v, npm -v)
+
+5. Install dependencies:
 
    ```sh
    npm install
@@ -56,19 +57,19 @@ This is a simple React application that displays a directory of people fetched f
 
 ### Project Structure
 
-/src  
-  DisplayParams.jsx - Component to display a paginated list of users.
-  PersonDetails.jsx - Component to display detailed information about a selected user.
-  UserContext.jsx   - Context provider to manage user data and loading state.
-  App.jsx           - Main application component.
-  index.jsx         - Entry point of application.
-.eslintrc.cjs
-.gitignore
-index.html
-packahe-lock.json
-package.json
-README.md
-vite.config.js
+/src  <br/>
+  DisplayParams.jsx - Component to display a paginated list of users. <br/>
+  PersonDetails.jsx - Component to display detailed information about a selected user. <br/>
+  UserContext.jsx   - Context provider to manage user data and loading state. <br/>
+  App.jsx           - Main application component. <br/>
+  index.jsx         - Entry point of application. <br/>
+.eslintrc.cjs <br/>
+.gitignore <br/>
+index.html <br/>
+packahe-lock.json <br/>
+package.json <br/>
+README.md <br/>
+vite.config.js <br/>
 
 ### API
 

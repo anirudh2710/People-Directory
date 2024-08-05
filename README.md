@@ -38,19 +38,19 @@ This is a simple React application that displays a directory of people fetched f
    ```sh
    cd people-dircetory
 
-4. Download Node.js (if it isn't already installed):
+3. Download Node.js (if it isn't already installed):
 
    ```sh
    https://nodejs.org/en
 
 Check for versions (node -v, npm -v)
 
-5. Install dependencies:
+4. Install dependencies:
 
    ```sh
    npm install
 
-8. Open localhost after running the following command: 
+### Open localhost after running the following command: 
 
    ```sh
    npm run dev   

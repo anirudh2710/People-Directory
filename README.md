@@ -54,22 +54,6 @@ Check for versions (node -v, npm -v)
    ```sh
    npm run dev
 
-### Project Structure:
-
-/src  <br/>
-  DisplayParams.jsx - Component to display a paginated list of users. <br/>
-  PersonDetails.jsx - Component to display detailed information about a selected user. <br/>
-  UserContext.jsx   - Context provider to manage user data and loading state. <br/>
-  App.jsx           - Main application component. <br/>
-  index.jsx         - Entry point of application. <br/>
-.eslintrc.cjs <br/>
-.gitignore <br/>
-index.html <br/>
-packahe-lock.json <br/>
-package.json <br/>
-README.md <br/>
-vite.config.js <br/>
-
 ### API
 
 The app fetches user data from the Random User API. The data includes details like name, email, phone, and address of random users.
